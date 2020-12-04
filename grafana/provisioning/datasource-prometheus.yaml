@@ -3,9 +3,8 @@ datasources:
  - name: Prometheus
    type: prometheus
    orgId: 1
-   url: http://localhost:9090
-   access: proxy
+   url: http://prometheus.local
+   access: server
    version: 1
    editable: false
    isDefault: true
-
