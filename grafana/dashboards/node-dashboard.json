@@ -253,7 +253,7 @@
         {
           "decimals": null,
           "format": "short",
-          "label": "Mem / GB",
+          "label": "Disk / GB",
           "logBase": 1,
           "max": null,
           "min": null,
